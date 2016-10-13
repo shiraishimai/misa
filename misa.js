@@ -1,6 +1,7 @@
 'use strict';
 const STRING = '[object String]',
     FUNCTION = 'function';
+let fs = require('fs');
 
 class Util {
     static isNumber(ref) {
