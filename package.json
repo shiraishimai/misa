@@ -1,0 +1,19 @@
+{
+  "name": "misa",
+  "version": "1.0.1",
+  "description": "",
+  "main": "misa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiraishimai/misa.git"
+  },
+  "author": "shiraishimai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiraishimai/misa/issues"
+  },
+  "homepage": "https://github.com/shiraishimai/misa#readme"
+}
